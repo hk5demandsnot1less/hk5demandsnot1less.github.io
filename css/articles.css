@@ -1,0 +1,25 @@
+main {
+    padding: auto 1.5rem;
+    padding-top: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+article {
+    padding: 1rem 2.5rem 0 2.5rem;
+}
+
+.tabbed {
+    padding-left: 2rem;
+}
+
+.pad-line-height {
+    margin-bottom: 1rem;
+}
+
+footer {
+    margin: 1rem 1.5rem;
+    text-align: center;
+}
